@@ -11,3 +11,5 @@ Whether you are performing SMP/SML lookups, validating Participant IDs, or parsi
 - 🆔 **Identifier Parsing & Validation:** Validate and format Peppol Participant IDs.
 - 📄 **Document Type Identification:** Parse and match Peppol BIS Billing and custom document specification identifiers seamlessly.
 - ⚡ **Isomorphic & TypeScript Native:** Works out of the box in Node.js and modern browsers with full type definitions.
+
+**Built on SML Spec 1.3.0** : https://docs.peppol.eu/edelivery/sml/Peppol-EDN-Service-Metadata-Locator-1.3.0-2025-02-06.pdf
