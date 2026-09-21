@@ -1,1 +1,1 @@
-export { participantLookup } from './lookup';
+export { participantLookup } from './lookup.js';

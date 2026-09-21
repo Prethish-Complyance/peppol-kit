@@ -3,7 +3,6 @@
  * @example "0235:1234567890"
  */
 export type ParticipantID = string;
-
 export type XmlNode = {
     type: string;
     name?: string;
@@ -11,5 +10,4 @@ export type XmlNode = {
     children?: XmlNode[];
     value?: string;
 };
-
-export type smlMode ="production" | "test" 
+export type smlMode = "production" | "test";
